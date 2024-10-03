@@ -43,3 +43,7 @@ Explanation: Since there are already no fresh oranges at minute 0, the answer is
 - `n == grid[i].length`
 - `1 <= m, n <= 10`
 - `grid[i][j]` is `0`, `1`, or `2`.
+
+##### Solution
+
+`https://algo.monster/liteproblems/994`
